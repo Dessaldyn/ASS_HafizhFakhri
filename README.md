@@ -1,5 +1,6 @@
 # ASS_HafizhFakhri_714230031
-Assesment 1 (11/09/2023)
+### Assesment 1 (11/09/2023)
+https://dessaldyn.github.io/ASS_HafizhFakhri/
 
 ## NavBar
 Menggunakan CSS Tailwind

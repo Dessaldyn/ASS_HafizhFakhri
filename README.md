@@ -1,4 +1,4 @@
-![image](https://github.com/Dessaldyn/ASS_HafizhFakhri/assets/143266467/e0806ec1-3f79-494f-99b8-b68616f49ab0)# ASS_HafizhFakhri_714230031
+# ASS_HafizhFakhri_714230031
 Assesment 1 (11/09/2023)
 
 ## NavBar

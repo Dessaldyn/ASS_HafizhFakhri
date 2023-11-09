@@ -1,4 +1,4 @@
-# ASS_HafizhFakhri_714230031
+![image](https://github.com/Dessaldyn/ASS_HafizhFakhri/assets/143266467/e0806ec1-3f79-494f-99b8-b68616f49ab0)# ASS_HafizhFakhri_714230031
 Assesment 1 (11/09/2023)
 
 ## NavBar
@@ -35,10 +35,18 @@ Menggunakan CSS Tailwind
             </div>
         </nav>
 ```
+### Hasilnya
+![image](https://github.com/Dessaldyn/ASS_HafizhFakhri/assets/143266467/02faa260-6199-4a5b-b14e-9b949efd6b3f)
 
 ## Body 
-1. Ada Home yang berupa Tampilan Landing Page dengan menampilkan nama tugas dan nama diri
-2. Tampilan Card berisi Team yang mengerjakan Project ini
-3. Berisikan Tampilan card Favorite Song sang pembuat
+### 1. Ada Home yang berupa Tampilan Landing Page dengan menampilkan nama tugas dan nama diri
+![image](https://github.com/Dessaldyn/ASS_HafizhFakhri/assets/143266467/e0ace50b-4be9-4075-8424-27c4293d1e00)
+
+### 2. Tampilan Card berisi Team yang mengerjakan Project ini
+![image](https://github.com/Dessaldyn/ASS_HafizhFakhri/assets/143266467/01b79132-d444-4d14-8feb-abb6bc266fd0)
+
+###3. Berisikan Tampilan card Favorite Song sang pembuat
+![image](https://github.com/Dessaldyn/ASS_HafizhFakhri/assets/143266467/0af17cb5-78c2-4f3d-85b9-68e23a6a7618)
 
 ## Footer
+![image](https://github.com/Dessaldyn/ASS_HafizhFakhri/assets/143266467/b4802588-5aab-4331-acf9-790c948e9860)
